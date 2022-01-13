@@ -7,8 +7,8 @@ This project aims to identify the districts in California that have the worst ov
 ### Contents
 - [Background](#Background)
 - [Data Dictionary](#Data-Dictionary)
-- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
-- [Rubrics](#Rubrics)
+- [Conclusions](#Conclusions)
+- [Recommendations](#Recommendations)
 
 ### Background
 Standardized tests have long been a controversial topic for students, administrators, and legislators. Since the 1940's, an increasing number of colleges have been using scores from students' performances on tests like the SAT and the ACT as a measure for college readiness and aptitude ([*source*](https://www.minotdailynews.com/news/local-news/2017/04/a-brief-history-of-the-sat-and-act/)). Supporters of these tests argue that these scores can be used as an objective measure to determine college admittance. Opponents of these tests claim that these tests are not accurate measures of students potential or ability and serve as an inequitable barrier to entry. Lately, more and more schools are opting to drop the SAT/ACT requirement for their Fall 2021 applications ([*read more about this here*](https://www.cnn.com/2020/04/14/us/coronavirus-colleges-sat-act-test-trnd/index.html)).
@@ -46,7 +46,7 @@ Reasons often cited for the divide between rich and poor students include abilit
 |**pct_above_21**|*float*|2019 Dept. of Edu.|Percent of students who scored above the benchmark composite score of 21| 
 |**participation_act**|*float*|2019 Dept. of Edu.|Percentage of enrolled seniors who took the ACT|
 
-### Conclusions and Recommendations
+### Conclusions
 The aim was to investigate SAT and ACT score performance, with a specific focus on possible reasons for variation in score performance across various districts. In particular, our study focused on the impact of average household income and school district funding on score performance.
 
 #### Key Takeaways
@@ -59,7 +59,7 @@ The aim was to investigate SAT and ACT score performance, with a specific focus 
 5. **Better test performance was not associated with better test participation rates:** If low participation rates is a concern, it must be addressed separately from test performance. Improving test performance will not necessarily increase participation rates.
 6. **However, higher household income and district funding seemed to moderately increase test participation rates!**
 
-#### Recommendations
+### Recommendations
 1. **Time series data should be collected to properly investigate the long-term effect of district funding on test performance:** Time series data would allow the state of California to ascertain if  funding truly translations into improvements in test scores, and to what extent. It would also allow us to estimate how much funding is needed, and how long it must be sustained to achieve improvements in overall test performance.
 
 2. **Data should be collected to estimate the efficiency of ongoing or potential programs:** Investing wisely in evidence-based interventions is likely to achieve greater results than blindly spending on programs that show little effect. Data can be collected from schools in California, or by exploring the literature on evidence-based interventions being carried out outside of California.
