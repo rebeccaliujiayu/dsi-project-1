@@ -1,0 +1,920 @@
+Rank*,School District,Score,Expenditures for Public Elementary and Secondary Schools per Pupil,Income by School District
+1,Los Nietos School District,0.03,14525,63516
+2,Gen Shafter Elementary School District,0.13,17245,49167
+3,Browns Elementary School District,0.17,10664,83942
+4,Pajaro Valley Unified School District,0.19,13924,66867
+5,Bonita Unified School District,0.27,10602,84202
+6,Roseville City Elementary School District,0.28,11104,81921
+7,Tracy Joint Unified School District,0.29,10666,84256
+8,Anderson Valley Unified School District,0.31,17941,45164
+9,San Marcos Unified School District,0.33,11157,81207
+10,Val Verde Unified School District,0.38,14085,65607
+11,Imperial Unified School District,0.51,10778,83813
+12,Twin Ridges Elementary School District,0.54,18845,40192
+13,North Monterey County Unified School District,0.55,12794,72355
+14,Fountain Valley School District,0.56,9634,89934
+15,Sulphur Springs Union School District,0.63,10732,83254
+16,Lakeside Union Elementary School District,0.72,10705,83339
+17,Wright Elementary School District,0.74,12525,74690
+18,Galt Joint Union Elementary School District,0.81,12624,73076
+19,Oxnard Union High School District,1,12248,74936
+20,Arcohe Union Elementary School District,1.01,10333,86530
+21,Covina Valley Unified School District,1.12,12762,72119
+22,Lowell Joint Elementary School District,1.28,9853,87475
+23,West Covina Unified School District,1.33,10578,83581
+24,La Habra City Elementary School District,1.44,12572,74932
+25,North Cow Creek Elementary School District,1.44,9402,91786
+26,Lone Pine Unified School District,1.48,18443,43750
+27,Klamath Trinity Joint Unified School District,1.48,19369,38828
+28,Downey Unified School District,1.49,12903,71110
+29,Pomona Unified School District,1.55,14936,60261
+30,West Contra Costa Unified School District,1.56,12364,73931
+31,East Whittier Elementary School District,1.57,10657,82995
+32,Pleasant Valley Joint Union School District,1.57,12819,71500
+33,Foresthill Union Elementary School District,1.59,11406,79000
+34,Dry Creek Joint Elementary School District,1.59,9658,90532
+35,Westside Union School District,1.68,9924,89175
+36,Orcutt Union School District,1.72,10240,85105
+37,Surprise Valley Joint Unified School District,1.76,18000,43824
+38,Baker Valley Unified School District,1.8,18755,42321
+39,Hornbrook Elementary School District,1.82,18860,39211
+40,Rio Elementary School District,1.86,11801,76712
+41,Chula Vista Elementary School District,1.88,11672,77384
+42,Azusa Unified School District,1.92,14445,65313
+43,Ravenswood City Elementary School District,2.07,14202,63797
+44,Placer Union High School District,2.15,12206,74350
+45,Templeton Unified School District,2.21,10890,84418
+46,Junction Elementary School District,2.23,11324,78988
+47,Twain Harte School District,2.23,14838,60308
+48,Charter Oak Unified School District,2.49,11604,80816
+49,Bassett Unified School District,2.55,14625,64803
+50,Aromas - San Juan Unified School District,2.59,11084,83654
+51,Norwalk La Mirada Unified School District,2.62,13203,72409
+52,Muroc Unified School District,2.64,16081,57123
+53,Mulberry Elementary School District,2.77,11951,79167
+54,Los Alamitos Unified School District,2.78,11235,82981
+55,San Benito Joint Union High School District,2.82,11220,83093
+56,Cuyama Joint Unified School District,2.92,17112,47734
+57,Hayward Unified School District,2.98,12007,79022
+58,Big Valley Joint Unified School District,3.1,17741,48625
+59,Ojai Unified School District,3.1,12136,74053
+60,Igo-Ono-Plantina Union Elementary School District,3.25,19450,39643
+61,Fallbrook Union High School District,3.37,14421,61720
+62,Mountain Union Elementary School District,3.58,18597,39375
+63,Hacienda La Puente Unified School District,3.58,12585,76371
+64,Bonsall Unified School District,3.63,9189,94457
+65,Hughson Unified School District,3.64,11867,75104
+66,Lagunita Elementary School District,3.73,9571,92500
+67,Center Unified School District,3.74,12064,73989
+68,Clovis Unified School District,3.88,11038,79342
+69,Soquel Union Elementary School District,3.9,10433,82546
+70,Santa Barbara Unified School District,3.93,11638,76122
+71,Janesville Unified Elementary School District,3.94,9491,87526
+72,Hollister Elementary School District,3.97,10582,81704
+73,Chaffey Union High School District,4.38,12162,73015
+74,Napa Valley Unified School District,4.44,11122,84755
+75,Elk Grove Unified School District,4.53,11515,76348
+76,Golden Valley Unified School District,4.6,10876,79696
+77,Lucia Mar Unified School District,4.62,11385,76977
+78,Hart Ransom Union Elementary School District,4.66,9322,87917
+79,Fairfield-Suisun Joint Unified School District,4.7,10661,80769
+80,Sierra Unified School District,4.73,13358,73067
+81,John Swett Unified School District,4.75,12686,76655
+82,Tustin Unified School District,4.77,10848,86439
+83,San Pasqual Valley Unified School District,4.83,21280,24231
+84,Abc Unified School District,4.86,11434,76547
+85,Santee School District,4.94,10010,84062
+86,Hope Elementary School District,4.95,11125,78125
+87,Willow Creek Elementary School District,4.97,16750,48214
+88,Roseland School District,5.12,16669,55744
+89,Wheatland Union High School District,5.32,12018,80606
+90,Folsom-Cordova Unified School District,5.56,11232,84957
+91,Mt View Elementary School District,5.6,10466,81171
+92,Sebastopol Union Elementary School District,5.7,11080,77841
+93,Centralia Elementary School District,5.71,11894,73502
+94,Wilmar Union Elementary School District,5.79,9393,94896
+95,Wiseburn Unified School District,5.8,6428,102500
+96,Monrovia Unified School District,5.96,13173,74922
+97,Guerneville Elementary School District,5.97,14622,58822
+98,Western Placer Unified School District,6.1,10671,79732
+99,Antioch Unified School District,6.18,12318,70918
+100,South Whittier Elementary School District,6.23,13579,64185
+101,Alpine Union Elementary School District,6.27,10088,91534
+102,Gravenstein Union School District,6.33,10594,88889
+103,Ventura Unified School District,6.41,11435,75454
+104,San Leandro Unified School District,6.49,12258,71020
+105,Riverside Unified School District,6.53,12332,70599
+106,Luther Burbank Elementary School District,6.68,13265,65536
+107,Oxnard School District,6.93,12861,67507
+108,Fullerton Joint Union High School District,6.94,11514,74663
+109,West Side Union Elementary School District,7.01,11181,86250
+110,Fullerton Elementary School District,7.05,11503,74644
+111,Duarte Unified School District,7.06,11758,73279
+112,Rowland Unified School District,7.06,12009,71944
+113,Gold Trail Union Elementary School District,7.17,9385,85814
+114,Cienega Union Elementary School District,7.24,11833,72750
+115,Waugh Elementary School District,7.27,9926,93104
+116,Cloverdale Unified School District,7.43,12660,68226
+117,Loleta Union Elementary School District,7.48,17139,44375
+118,Elverta Joint Elementary School District,7.51,12131,81546
+119,Whittier Union High School District,7.59,14025,71534
+120,Rocklin Unified School District,7.59,8990,98304
+121,Mark West Union Elementary School District,7.6,11041,76711
+122,Lawndale Elementary School District,7.72,13853,61675
+123,Galt Joint Union High School District,7.84,13714,73363
+124,Placer Hills Union Elementary School District,7.84,11198,86741
+125,Valley Center-Pauma Unified School District,7.94,12404,80400
+126,Anaheim Union High School District,8.08,12615,68002
+127,Valle Lindo Elementary School District,8.28,13498,63167
+128,Newhall School District,8.33,10068,93091
+129,Alta Loma Elementary School District,8.58,9802,94682
+130,Princeton Joint Unified School District,8.64,15285,53417
+131,Valley Home Elementary School District,8.67,10479,78942
+132,Johnstonville Elementary School District,8.7,10447,79091
+133,Vacaville Unified School District,8.78,10517,78668
+134,Torrance Unified School District,8.86,10632,90470
+135,Grant Elementary School District,8.9,10191,92841
+136,Jefferson Elementary School District,9.02,11280,87133
+137,Ocean View Elementary School District,9.02,11586,85507
+138,Fillmore Unified School District,9.02,13101,64761
+139,Chino Unified School District,9.06,10448,91589
+140,Santa Maria Joint Union High School District,9.08,13017,65161
+141,Westwood Unified School District,9.11,16686,45641
+142,Alum Rock Union Elementary School District,9.33,13726,74349
+143,Huntington Bch City Elementary School District,9.35,9752,95490
+144,Temecula Valley Unified School District,9.42,9650,96079
+145,Live Oak Elementary School District,9.48,11961,70498
+146,Mupu School District,9.53,10045,94063
+147,Cotati-Rohnert Pk Unified School District,9.66,12358,68262
+148,Garden Grove Unified School District,9.82,12765,65981
+149,Murrieta Valley Unified School District,9.85,10906,89705
+150,East Nicolaus Joint Union High School District,9.88,11688,71667
+151,Winters Joint Unified School District,9.88,12174,82988
+152,Alvord Unified School District,9.91,12822,65619
+153,Hemet Unified School District,9.95,16755,44680
+154,Sonoma Valley Unified School District,10.01,13009,78638
+155,Siskiyou Union High School District,10.06,16282,47116
+156,Ramona City Unified School District,10.16,10918,89864
+157,Junction City Elementary School District,10.19,18357,50338
+158,San Lorenzo Unified School District,10.27,11408,72877
+159,Burbank Unified School District,10.29,11331,73277
+160,Atascadero Unified School District,10.31,10597,77163
+161,Oak Grove Union Elementary School District,10.38,8423,88672
+162,Cucamonga School District,10.4,13640,60921
+163,Sweetwater Union High School District,10.51,12775,65443
+164,Monterey Peninsula Unified School District,10.54,12052,69263
+165,Savanna Elementary School District,10.67,11568,71747
+166,Jurupa Unified School District,10.69,12538,66579
+167,French Gulch-Whiskeytown Elementary School District,10.73,16931,43194
+168,Bret Harte Union High School District,10.75,16726,59404
+169,El Dorado Unified High School District,10.85,11575,86856
+170,Buena Park Elementary School District,10.97,12770,65150
+171,Junction Elementary School District,10.98,19393,45385
+172,Bellevue Union Elementary School District,11,13148,63118
+173,Two Rock Union School District,11.1,14097,73625
+174,Harmony Union Elementary School District,11.11,13417,77250
+175,Oakley Union Elementary School District,11.2,10399,93355
+176,Brea Olinda Unified School District,11.23,10267,94079
+177,Little Lake Elementary School District,11.26,11734,70453
+178,Monroe Elementary School District,11.46,15874,48304
+179,San Ysidro Elementary School District,11.55,14474,55684
+180,Forestville Elementary School District,11.6,15243,67887
+181,Wheatland School District,11.62,12849,64268
+182,Corona Norco Unified School District,11.67,11351,88620
+183,Esparto Unified School District,11.79,12223,67477
+184,Lake Elsinore Unified School District,11.97,11718,70034
+185,North County Joint Union School District,12.02,9035,101179
+186,Silver Vly Unified School District,12.13,14892,53050
+187,Huntington Beach Union High School District,12.14,12190,84493
+188,Whittier City School District,12.15,12292,66857
+189,Vallecito Union Elementary School District,12.18,14550,54833
+190,Southside Elementary School District,12.18,8301,105196
+191,Garvey Elementary School District,12.58,15576,49096
+192,Pleasant Valley School District,12.74,10193,95532
+193,Vista Unified School District,12.77,11234,72046
+194,Shandon Unified School District,12.91,13991,57292
+195,Santa Ynez Valley Union High School District,12.96,12514,83346
+196,Rosemead Elementary School District,12.97,13514,59788
+197,Outside Creek Elementary School District,13,11843,68647
+198,San Diego City Unified School District,13.1,11416,70843
+199,Bennett Valley Union School District,13.12,10767,92750
+200,Mountain View Elementary School District,13.24,15707,47939
+201,El Monte City School District,13.32,15499,48984
+202,Pasadena Unified School District,13.34,12727,82485
+203,Santa Ana Unified School District,13.56,12971,62257
+204,Tres Pinos Union Elementary School District,13.58,8872,84028
+205,Upland Unified School District,13.6,11401,70571
+206,Pittsburg Unified School District,13.67,12617,64057
+207,Mccabe Union Elementary School District,13.7,9660,99038
+208,Hope Elementary School District,13.74,10785,73750
+209,West Sonoma County Union High School District,13.78,14022,75911
+210,Dixon Unified School District,14.14,9814,78630
+211,Bogus Elementary School District,14.22,19385,47708
+212,Loomis Union School District,14.23,6341,97029
+213,Manteca Unified School District,14.23,11523,69479
+214,Raymond Knowles Union Elementary School District,14.29,13975,56406
+215,Walnut Creek Elementary School District,14.31,11430,90062
+216,Linden Unified School District,14.46,11702,68370
+217,Anaheim Elementary School District,14.51,12553,63812
+218,Peninsula Union School District,14.54,16865,40865
+219,Rincon Valley Union Elementary School District,14.85,13153,81283
+220,Fontana Unified School District,14.87,13064,60840
+221,Black Oak Mine Unified School District,14.9,10827,72713
+222,San Lucas Union Elementary School District,14.91,14527,53036
+223,Helendale Elementary School District,14.91,10508,74400
+224,Mammoth Unified School District,15.1,12016,66250
+225,Leggett Valley Unified School District,15.17,20276,22292
+226,Woodland Joint Unified School District,15.34,12226,64965
+227,Round Valley Elementary School District,15.37,11510,68750
+228,Saddleback Valley Unified School District,15.45,10660,94957
+229,Redlands Unified School District,15.49,10625,73366
+230,Moreno Valley Unified School District,15.54,12732,62131
+231,Long Beach Unified School District,15.58,12489,63395
+232,Nevada Joint Union High School District,15.65,13353,58756
+233,Montgomery Elementary School District,15.67,20171,44554
+234,Gold Oak Unified Elementary School District,15.76,10256,75139
+235,Dunham Elementary School District,15.8,11135,92679
+236,Davis Joint Unified School District,15.85,12299,64220
+237,Claremont Unified School District,15.86,11543,90549
+238,Cypress Elementary School District,15.87,10827,94365
+239,Mountain Valley Unified School District,15.92,18842,29389
+240,El Rancho Unified School District,15.93,11914,66210
+241,Bangor Union Elementary School District,16.01,16618,41146
+242,Lemon Grove School District,16.06,12603,62456
+243,El Monte Union High School District,16.14,14911,50130
+244,Hueneme Elementary School District,16.15,11921,66013
+245,Patterson Joint Unified School District,16.31,12086,65025
+246,Roseville Joint Union High School District,16.32,11916,88890
+247,Fallbrook Union Elementary School District,16.33,12799,61221
+248,La Mesa-Spring Valley Elem,16.34,11347,68935
+249,Durham Unified School District,16.46,10785,71835
+250,Gonzales Unified School District,16.59,13360,58056
+251,Byron Union Elementary School District,16.63,7932,110290
+252,Simi Valley Unified School District,16.68,10765,95265
+253,Glendale Unified School District,16.68,12006,65188
+254,Ontario Montclair School District,16.81,13829,55410
+255,Central Union Elementary School District,17,14503,51694
+256,San Rafael Elementary District,17.03,12069,88577
+257,Camino Union Elementary District,17.05,11423,68032
+258,Alhambra Unified School District,17.05,13482,57081
+259,Benicia Unified School District,17.12,10132,98940
+260,Pacific Elementary School District,17.29,12275,63333
+261,Santa Paula Unified School District,17.47,13710,55574
+262,Little Shasta Elementary School District,17.55,21188,40469
+263,Sanger Unified School District,17.57,11545,67014
+264,Salinas Union High School District,17.7,12363,62576
+265,Lakeside Union Elementary School District,17.71,10159,74281
+266,Richmond Elementary School District,17.79,8368,83750
+267,Indian Diggings Elementary School District,17.87,14000,53750
+268,Alameda Unified School District,17.93,10387,98150
+269,Buckeye Union School District,18,8491,108283
+270,Flournoy Union Elementary School District,18.04,15154,47500
+271,Los Angeles Unified School District,18.08,13247,57607
+272,Kingsburg Joint Unified High School District,18.13,11874,64869
+273,Oakland Unified School District,18.2,11195,68428
+274,Orange Unified School District,18.41,11434,92925
+275,Snelling-Merced Falls Union Elementary School District,18.42,14110,52778
+276,Southern Kern Unified School District,18.43,13442,56328
+277,Panama Buena Vista Union School District,18.48,11008,69229
+278,Gazelle Union Elementary School District,18.56,21269,40750
+279,Antelope Valley Union High School District,18.58,13553,55630
+280,San Luis Coastal Unified School District,18.65,12344,62008
+281,Beaumont Unified School District,18.75,10693,70715
+282,Carpinteria Unified School District,18.76,14403,77392
+283,Romoland Elementary School District,18.85,11690,65342
+284,Ballico Cressey Elementary School District,19.01,12079,63164
+285,Le Grand Union High School District,19.01,15840,43167
+286,Eastside Union High School District,19.11,10292,99492
+287,Magnolia Elementary School District,19.21,12723,59597
+288,FRank*lin Elementary School District,19.21,9167,78500
+289,Carlsbad Unified School District,19.25,10420,98904
+290,Glendora Unified School District,19.26,10953,96081
+291,Washington Unified School District,19.31,11767,64611
+292,Williams Unified School District,19.33,12251,62024
+293,Alta Dutch Flat Union Elementary School District,19.51,12294,61667
+294,Norris Elementary School District,19.74,8359,110208
+295,Natomas Unified School District,19.99,9532,76009
+296,Twin Hills Union Elementary School District,20.09,10473,99216
+297,Sierra Plumas Joint Unified School District,20.16,14504,49464
+298,Oak View Elementary School District,20.22,9759,74643
+299,Maxwell Unified School District,20.26,12410,60526
+300,Fruitvale Elementary School District,20.29,9735,74722
+301,Paso Robles Joint Unified School District,20.3,11612,64740
+302,South Pasadena Unified School District,20.34,11002,96579
+303,Grossmont Union High School District,20.37,10759,69219
+304,Denair Unified School District,20.63,12908,86652
+305,Vallejo City Unified School District,20.69,11239,66446
+306,Penn Valley Union Elementary School District,20.75,11909,62843
+307,Soledad Unified School District,20.77,12754,58333
+308,Bellflower Unified School District,20.79,12198,61277
+309,Summerville Elementary School District,20.81,10650,69489
+310,Robla Elementary School District,20.81,13441,54652
+311,Culver City Unified School District,20.83,12209,90510
+312,Saucelito Elementary School District,21.07,13953,51750
+313,FRank*lin Mckinley Elementary Sch,21.09,10086,72292
+314,Solvang Elementary School District,21.15,9013,77955
+315,Bella Vista Elementary School District,21.2,12026,61906
+316,Travis Unified School District,21.21,10877,97859
+317,Palm Springs Unified School District,21.23,14951,46335
+318,William S Hart Union High School District,21.26,10579,99477
+319,Plumas Elementary School District,21.28,10406,100412
+320,Soulsbyville Elementary School District,21.42,9189,76829
+321,Delphic Elementary School District,21.42,11918,62321
+322,Le Grand Union Elementary School District,21.43,14440,48906
+323,Fieldbrook Elementary School District,21.48,10583,69375
+324,Elkins Elementary School District,21.57,16333,38750
+325,Sutter Union High School District,21.66,10293,70789
+326,San Antonio Union Elementary School District,21.71,14116,50433
+327,Arcadia Unified School District,21.74,11607,94347
+328,Westminster School District,21.77,11694,63266
+329,Summerville Union High School District,21.8,11859,62365
+330,Delhi Unified School District,21.81,13235,55045
+331,Jefferson Elementary School District,21.83,9948,103234
+332,Jamul-Dulzura Union School District,21.84,10857,98409
+333,Gilroy Unified School District,21.85,11239,96385
+334,Pleasant Ridge Union Elementary School District,22.09,10500,69389
+335,Placentia-Yorba Linda Unified,22.1,11108,97253
+336,Rio Bravo-Greeley Union School District,22.19,10259,101833
+337,Pleasant Grove Joint Union Elementary School District,22.26,9880,72563
+338,Canyon Elementary School District,22.58,13556,84583
+339,Garfield Elementary School District,22.59,12355,90972
+340,San Miguel Joint Union Elementary School District,22.63,11107,65785
+341,Rosedale Union Elementary School District,22.79,10896,98870
+342,Martinez Unified School District,22.81,11112,97734
+343,Temple City Unified School District,22.98,10788,67233
+344,South Bay Union School District,23.05,13642,52011
+345,Windsor Unified School District,23.08,11332,96757
+346,Escalon Unified School District,23.1,10368,69380
+347,El Segundo Unified School District,23.19,10959,98813
+348,Santa Maria-Bonita School District,23.21,12298,59041
+349,Trinity Center Elementary School District,23.28,21917,40625
+350,Sacramento City Unified School District,23.41,12722,56651
+351,Briggs School District,23.51,11557,62772
+352,Stone Corral Elementary School Districtrict,23.72,15989,39063
+353,Lodi Unified School District,23.78,11165,64665
+354,Mcswain Union Elementary School District,24.17,10513,101875
+355,New Hope Elementary School District,24.28,15356,42031
+356,Knightsen Elementary School District,24.35,10318,103036
+357,Butteville Elementary School District,24.39,10459,67989
+358,Mother Lode Union Elementary School District,24.53,10606,67108
+359,Newman-Crows Landing Unified School District,24.57,11775,60868
+360,Rialto Unified School District,24.59,12504,56977
+361,Round Valley Unified School District,24.65,16024,38224
+362,Burnt Ranch Elementary School District,24.68,15000,43646
+363,Biggs Unified School District,24.7,11944,59872
+364,Lewiston Elementary School District,24.71,16097,37794
+365,Plumas Unified School District,24.73,13197,53194
+366,Desert Sands Unified School District,24.9,12561,56458
+367,Gateway Unified School District,24.96,14200,47700
+368,Walnut Valley Unified School District,24.99,10783,101018
+369,Pacheco Union Elementary School District,25.01,10520,67228
+370,Curtis Creek Elementary School District,25.02,11875,60018
+371,Columbia Elementary School District,25.13,11192,63571
+372,Paramount Unified School District,25.13,12942,54267
+373,Pacific Union Elementary School District,25.2,15239,42011
+374,Lassen Union High School District,25.29,11560,61498
+375,Oakdale Joint Unified School District,25.43,11048,64123
+376,Escondido Union Elementary School District,25.48,10895,64901
+377,Kit Carson Elementary School District,25.49,12916,54155
+378,Manchester Union Elementary School District,25.56,20325,50694
+379,Compton Unified School District,25.6,13338,51835
+380,Manzanita Elementary School District,25.61,10213,68438
+381,Salinas City Elementary School District,25.82,12196,57746
+382,Chawanakee Joint Unified School District,25.88,11529,61250
+383,Belleview Elementary School District,25.92,13006,53371
+384,Menifee Union Elementary School District,26.04,10282,67764
+385,Yreka Union High School District,26.1,14574,44910
+386,Ocean View School District,26.2,11780,59691
+387,Riverbank Unified School District,26.33,13064,52772
+388,Laytonville Unified School District,26.38,15261,41061
+389,Escondido Union High School District,26.42,10600,65809
+390,Mccloud Union Elementary School District,26.44,15365,40469
+391,Midway Elementary School District,26.48,21847,43250
+392,Moorpark Unified School District,26.66,10335,104573
+393,Sylvan Union Elementary School District,26.72,10114,68181
+394,Kern High School District,26.74,12847,53641
+395,Piner Olivet Union Elementary School District,26.76,12372,93818
+396,Tulare Joint Union High School District,26.77,13538,49945
+397,Sierra Sands Unified School District,26.84,10915,63836
+398,Central Unified School District,26.86,11136,62652
+399,Irvine Unified School District,27.14,10962,101576
+400,Colton Joint Unified School District,27.17,12254,56486
+401,Jefferson Union High School District,27.19,11892,96673
+402,Lemoore Union High School District,27.26,12162,56917
+403,Ferndale Unified School District,27.27,13194,51424
+404,Yosemite Unified School District,27.32,10739,64438
+405,Cajon Valley Union School District,27.34,11300,61440
+406,Clear Creek Elementary School District,27.38,9741,69702
+407,Alisal Union School District,27.4,11870,58371
+408,Lake Tahoe Unified School District,27.46,12236,56380
+409,Empire Union Elementary School District,27.5,11870,58295
+410,Perris Elementary School District,27.54,13764,48200
+411,Auburn Union Elementary School District,27.56,10837,63745
+412,Brentwood School District,27.6,10586,103902
+413,Happy Valley Union School District,27.6,11351,60984
+414,Ripon Unified School District,27.63,7044,83863
+415,Cinnabar Elementary School District,27.85,14398,83816
+416,Etiwanda Elementary School District,27.88,10347,105367
+417,Pollock Pines Elementary School District,27.95,11191,61588
+418,Cascade Union Elementary School District,28.05,15458,38841
+419,Mt Diablo Unified School District,28.07,12803,92445
+420,Kelseyville Unified School District,28.27,13037,51552
+421,Hanford Joint Union High School District,28.3,11661,58848
+422,Central School District,28.35,10171,66730
+423,Calaveras Unified School District,28.38,11908,57474
+424,Goleta Union School District,28.39,15388,78927
+425,Capistrano Unified School District,28.62,9388,110985
+426,Albany City Unified School District,28.67,13596,88655
+427,San Lorenzo Valley Unified School District,28.69,5736,90070
+428,San Juan Unified School District,28.72,11096,61552
+429,Riverdale Joint Unified School District,28.84,13126,50678
+430,Hughes Elizabeth Lakes Union School District,28.85,10414,65086
+431,Mt Baldy Elementary School District,28.88,12872,52000
+432,Hilmar Unified School District,28.89,11220,60778
+433,Berkeley Unified School District,28.98,15081,80979
+434,Novato Unified School District,29.07,11526,99938
+435,Liberty Union High School District,29.11,11157,101929
+436,Live Oak Unified School District,29.19,11921,56835
+437,Oceanside Unified School District,29.24,11020,61595
+438,Greenfield Union Elementary School District,29.25,12020,56271
+439,Rescue Elementary School District,29.52,10128,107686
+440,Snowline Joint Unified School District,29.73,11433,59053
+441,Golden Plains Unified School District,29.96,15323,38211
+442,Old Adobe Union School District,30.02,12367,96135
+443,Mark Twain Union Elementary School District,30.02,10685,62822
+444,Sequoia Union Elementary School District,30.08,10628,63083
+445,Brittan Elementary School District,30.13,9201,70638
+446,Santa Rita Union Elementary School District,30.25,9988,66367
+447,Holtville Unified School District,30.26,13379,48333
+448,Baldwin Park Unified School District,30.28,10768,62201
+449,Burrel Union Elementary School District,30.61,14692,41111
+450,Big Sur Unified School District,30.68,15982,34205
+451,Anderson Union High School District,30.91,12933,50250
+452,Shaffer Union Elementary School District,30.92,11982,55294
+453,Three River Union Elementary School District,30.97,9027,70972
+454,Bitterwater Tully Union School District,31.06,13471,91000
+455,Kirkwood Elementary School District,31.1,11309,58750
+456,Cayucos Elementary School District,31.11,18712,63175
+457,Black Butte Union School District,31.17,13521,46939
+458,South San Francisco Unified School District,31.24,12036,98757
+459,Pierce J. T. Unified School District,31.36,10849,61006
+460,Millville Elementary School District,31.46,9954,65694
+461,Fort Sage Unified School District,31.54,13201,48382
+462,Montebello Unified School District,31.54,12986,49521
+463,Salida Union Elementary School District,31.58,8539,73134
+464,Gustine Unified School District,31.64,11500,57353
+465,Centinela Valley Union High School District,31.77,12662,51085
+466,San Bruno Park Elementary School District,31.77,11347,102793
+467,Maple Elementary School District,31.88,9442,68125
+468,Tulelake Basin Joint Unified School District,32.18,14975,38500
+469,Conejo Valley Unified School District,32.42,10744,106452
+470,Castaic Union School District,32.47,10350,108584
+471,Sonora Union High School District,32.63,11941,54309
+472,Chualar Elementary School District,32.69,12091,53472
+473,Livingston Union School District,32.74,12361,52004
+474,Edison Elementary School District,32.75,12867,49306
+475,Shasta Union High School District,32.84,12289,52315
+476,Placerville Union Elementary School District,32.88,10386,62404
+477,Lincoln Unified School District,32.91,10517,61686
+478,Chatom Union School District,32.96,12813,49446
+479,Acton-Agua Dulce Unified School District,33.07,3161,100676
+480,Laton Joint Unified School District,33.16,13994,43021
+481,Rim World Unified School District,33.18,11281,57433
+482,Cuddeback Elementary School District,33.31,10839,59688
+483,Yucaipa Joint Unified School District,33.38,10061,63778
+484,Scott Valley Unified School District,33.46,12749,49428
+485,Bayshore Elementary School District,33.54,13730,91366
+486,Tehachapi Unified School District,33.58,10066,63607
+487,Hanford Elementary School District,33.72,11618,55264
+488,Keyes Union Elementary School District,33.75,11640,55124
+489,Bishop Unified School District,33.8,11574,55437
+490,Lompoc Unified School District,33.82,10801,59535
+491,South Bay Union Elementary School District,33.84,10239,62508
+492,South Monterey County Joint Union High School District,33.89,12027,52969
+493,Union Hill Elementary School District,33.93,9554,66083
+494,Palmdale Elementary School District,33.94,12106,52509
+495,Montague Elementary School District,34.01,12656,49536
+496,Jamestown Elementary School District,34.07,12811,48674
+497,Stoney Creek Joint Unified School District,34.08,23294,40909
+498,Reeds Creek Elementary School District,34.1,9169,68011
+499,Yuba City Unified School District,34.11,11581,55186
+500,Inglewood Unified School District,34.26,12149,52059
+501,Knights Ferry Elementary School District,34.28,8458,71667
+502,El Nido School District,34.34,13765,43409
+503,Sundale Unified Elementary School District,34.92,10035,62832
+504,San Jose Unified School District,35.19,11570,104013
+505,Mountain Elementary School District,35.28,12748,97813
+506,Dehesa Elementary School District,35.31,2207,104167
+507,Merced Union High School District,35.51,12554,49028
+508,Traver Joint Elementary School District,35.61,13144,45819
+509,River Delta Unified School District,35.61,10048,62274
+510,Merced River Union Elementary School District,35.64,11403,55052
+511,Chicago Park Elementary School District,35.64,9602,64625
+512,Grass Valley Elementary School District,35.79,12542,48889
+513,Visalia Unified School District,35.81,11230,55849
+514,Twin Rivers Unified School District,35.84,12954,46667
+515,Woodlake Unified School District,35.88,13407,44232
+516,Perris Union High School District,35.91,12656,48200
+517,Castle Rock Union School District,35.93,14700,37321
+518,Nevada City Elementary School District,35.99,10506,59571
+519,Caruthers Unified School District,36.04,13392,44196
+520,Coachella Valley Unified School District,36.05,14930,36012
+521,Tulare City School District,36.07,11692,53213
+522,Lindsay Unified School District,36.08,15333,33854
+523,Stanislaus Union Elementary School District,36.21,10810,57804
+524,Monte Rio Union Elementary School District,36.25,20427,57676
+525,Weaver Union School District,36.28,11997,51442
+526,Somis Union Elementary School District,36.29,11989,102560
+527,Ceres Unified School District,36.3,11492,54117
+528,San Bernardino City Unified School District,36.33,13451,43683
+529,Caliente Union Elementary School District,36.35,14900,35962
+530,Eureka Union Elementary School District,36.36,10325,111454
+531,Lynwood Unified School District,36.42,12352,49461
+532,Big Oak Flat-Groveland Unified School District,36.63,19742,61581
+533,Firebaugh-Las Deltas Unified School District,36.69,13865,41225
+534,Fowler Unified School District,36.77,12174,50156
+535,Bear Valley Unified School District,36.8,12137,50336
+536,Lemoore Union Elementary School District,36.94,10583,58494
+537,Trinity Alps Unified School District,37.04,13449,43191
+538,Hawthorne Elementary School District,37.16,12663,47285
+539,Fall River Joint Unified School District,37.24,12863,46162
+540,Delano Union Elementary School District,37.28,13610,42169
+541,Trinidad Union Elementary School District,37.32,10995,56042
+542,Weed Union Elementary School District,37.35,14206,38947
+543,Los Molinos Unified School District,37.35,13187,44362
+544,Tahoe Truckee Unified School District,37.44,16401,79915
+545,Capay Joint Union Elementary School District,37.5,10764,57143
+546,Northern Humboldt Union High School District,37.78,12968,45226
+547,Brawley Union High School District,37.96,13395,42829
+548,Middletown Unified School District,38.03,10557,57870
+549,Scotts Valley Unified School District,38.04,10590,111225
+550,Redondo Beach Unified School District,38.46,10449,112271
+551,Red Bluff Union High School District,38.47,13317,42886
+552,Enterprise Elementary School District,38.48,12253,48532
+553,Del Norte County Unified School District,38.53,12863,45258
+554,Burton Elementary School District,38.55,10796,56231
+555,Upper Lake Unified School District,38.64,13332,42688
+556,Eastside Union Elementary School District,38.7,12285,48212
+557,Blue Lake Elementary School District,38.74,12292,48147
+558,Mariposa County Unified School District,38.77,11762,50944
+559,Millbrae Elementary School District,38.84,10430,112640
+560,San Rafael High School District,38.87,14012,93618
+561,Ukiah Unified School District,38.94,11665,51334
+562,Los Banos Unified School District,39.09,11536,51919
+563,Guadalupe Joint Elementary School District,39.15,12762,45361
+564,Turlock Unified School District,39.24,11075,54264
+565,Corning Union High School District,39.52,13199,42774
+566,Banning Unified School District,39.69,13372,41737
+567,San Gabriel Unified School District,39.79,9086,64446
+568,Redding Elementary School District,40.01,12057,48503
+569,Bakersfield Elementary School District,40.08,13609,40201
+570,Julian Union Elementary School District,40.22,10917,54412
+571,National Elementary School District,40.32,12690,44916
+572,Saugus Union School District,40.34,10635,112604
+573,Redwood City Elementary School District,40.39,12031,105221
+574,Castro Valley Unified School District,40.4,10854,111481
+575,Pioneer Union School District,40.43,11293,52263
+576,Central Union High School District,40.5,12429,46177
+577,Chowchilla Union High School District,40.63,11947,48648
+578,Berryessa Union Elementary School District,40.63,10961,111080
+579,Bridgeville Elementary School District,40.66,22654,48942
+580,Keppel Union Elementary School District,40.81,12165,47361
+581,Bass Lake Joint Union Elementary School District,40.84,10375,56856
+582,Shiloh Elementary School District,40.86,10663,55313
+583,Fortuna Union High School District,40.91,12577,45105
+584,Roberts Ferry Union Elementary School District,41.18,11750,49306
+585,Buttonwillow Union Elementary School District,41.21,14078,36914
+586,Selma Unified School District,41.41,13113,41902
+587,Fresno Unified School District,41.41,13567,39488
+588,Coalinga Huron Joint Unified School District,41.42,12698,44101
+589,Semitropic Elementary School District,41.5,13851,37917
+590,Camptonville Union School District,41.55,10239,57083
+591,Hesperia Unified School District,41.57,10574,55286
+592,Coronado Unified School District,41.63,12891,101520
+593,Newark Unified School District,41.95,11681,108181
+594,Amador County Unified School District,41.95,9411,61198
+595,Nuestro Elementary School District,42,7436,71667
+596,Adelanto Elementary School District,42,11686,49070
+597,Oak Grove Elementary School District,42.02,11772,107744
+598,Dixie Elementary School District,42.03,12037,106344
+599,Fort Bragg Unified School District,42.06,12081,46927
+600,Kings Canyon Unified School District,42.36,12686,43502
+601,Hamilton Unified School District,42.37,12509,44438
+602,Heber Elementary School District,42.45,12525,44293
+603,Julian Union High School District,42.48,21748,55036
+604,Magnolia Union Elementary School District,42.57,10789,53438
+605,Lassen View Elementary School District,42.61,9963,57800
+606,Marysville Unified School District,42.72,11862,47629
+607,New Haven Unified School District,42.75,12313,105379
+608,Gerber Union Elementary School District,42.87,12763,42734
+609,Plaza Elementary School District,42.87,8809,63750
+610,Madera Unified School District,43,12013,46628
+611,Colfax Elementary School District,43.04,10355,55417
+612,Santa Clara Elementary School District,43.08,11017,112500
+613,Kings River Elementary School District,43.08,12194,45610
+614,Pacific Grove Unified School District,43.26,16031,85979
+615,Exeter Unified School District,43.35,11624,48455
+616,Bonny Doon Union Elementary,43.38,13774,98056
+617,Happy Camp Union Elementary School District,43.48,14102,35185
+618,Fairfax Elementary School District,43.65,12043,46012
+619,Dunsmuir Elementary School District,43.72,14368,33603
+620,Springville Union Elementary School District,43.82,9749,58088
+621,Mesa Union Elementary School District,43.95,5048,144844
+622,Planada Elementary School District,43.96,13065,40361
+623,Mckinleyville Union Elementary School District,44,10806,52344
+624,King City Union School District,44.05,11502,48605
+625,Campbell Union School District,44.11,13244,101387
+626,Lake Elementary School District,44.13,9818,57500
+627,Reef Sunset Unified School District,44.23,13050,40255
+628,Owens Valley Unified School District,44.26,24424,42063
+629,Shasta Union Elementary School District,44.28,9744,57793
+630,Westmorland Union Elementary School District,44.38,13562,37426
+631,College Elementary School District,44.71,17124,81184
+632,Farmersville Unified School District,45.1,13268,38481
+633,Delano Joint Union High School District,45.29,13447,37398
+634,Kenwood School District,45.3,18950,71898
+635,Gridley Unified School District,45.5,10900,50788
+636,Lakeport Unified School District,45.57,11828,45808
+637,Colusa Unified School District,45.57,11019,50106
+638,Pacifica School District,45.71,10791,115555
+639,El Tejon Unified School District,45.73,11846,45595
+640,Brawley Elementary School District,45.9,12308,43024
+641,Poway Unified School District,46.05,11181,113719
+642,Freshwater Elementary School District,46.23,10525,52269
+643,Nuview Union School District,46.29,8630,62301
+644,South Humbolot Joint Unified School District,46.32,12944,39341
+645,Butte Valley Unified School District,46.35,14000,33707
+646,Newport Mesa Unified School District,46.4,14459,96542
+647,Pioneer Union Elementary School District,46.49,14119,32981
+648,Eureka City Unified School District,46.51,12082,43794
+649,Palo Verde Unified School District,46.53,12469,41723
+650,Cottonwood Union Elementary School District,46.57,10560,51842
+651,Wilsona School District,46.63,13050,38562
+652,Meadows Elementary School District,46.83,12839,39545
+653,Morgan Hill Unified School District,46.89,9890,121178
+654,Pond Union Elementary School District,46.97,14145,32500
+655,Washington Colony Elementary School District,47.01,11469,46700
+656,Dinuba Unified School District,47.1,12212,42690
+657,Lakeside Union Elementary School District,47.12,12221,42625
+658,Lost Hills Union Elementary School District,47.36,13729,34438
+659,Arvin Union School District,47.37,12985,38387
+660,Taft City School District,47.43,11580,45811
+661,Lancaster School District,47.48,11123,48208
+662,Mountain Empire Unified School District,47.56,7565,67067
+663,Greenfield Union School District,47.61,11008,48729
+664,Victor Elementary School District,47.89,11138,47841
+665,Mojave Unified School District,47.91,12300,41652
+666,Woodville Elementary School District,47.94,14235,31339
+667,Vallecitos Elementary School District,47.98,7157,68938
+668,Klamath River Elementary School District,48.17,14300,30833
+669,Fortuna Elementary School District,48.23,11359,46427
+670,Calexico Unified School District,48.25,12423,40759
+671,Atwater Elementary School District,48.26,10305,52006
+672,Oroville Union High School District,48.27,12497,40349
+673,Moreland School District,48.28,12703,107199
+674,Mattole Unified School District,48.61,10872,48750
+675,Chico Unified School District,48.7,10215,52176
+676,Waukena Unified Elementary School District,48.72,12447,40294
+677,Blake Elementary School District,48.76,15846,90833
+678,Big Springs Elementary School District,48.82,10391,51154
+679,Lagunitas Elementary School District,49.21,16233,89091
+680,Winton School District,49.35,11692,43866
+681,Earlimart Elementary School District,49.56,14169,30552
+682,Dos Palos Oro-Loma Joint Unified,49.56,12104,41528
+683,Cambrian School District,49.63,10879,117845
+684,Parlier Unified School District,49.64,13644,33290
+685,Cutler-Orosi Unified School District,49.65,12892,37274
+686,South Fork Union School District,49.71,13469,34167
+687,Merced City School District,49.74,11348,45424
+688,Orland Joint Unified School District,49.74,11159,46426
+689,Grenada Elementary School District,50.13,10615,49046
+690,West Park Elementary School District,50.15,11844,42500
+691,Oak Run Elementary School District,50.28,11591,43750
+692,Lennox School District,50.57,11495,44059
+693,San Jacinto Unified School District,50.76,10938,46886
+694,Stockton City Unified School District,50.93,12022,40998
+695,Chowchilla Elementary School District,50.99,10556,48750
+696,Hot Springs Elementary School District,51,16167,18917
+697,Borrego Springs Unified School District,51.19,12471,38431
+698,Richgrove Elementary School District,51.24,15589,21824
+699,Sunnyside Unified Elementary School District,51.25,13194,34545
+700,Victor Valley Joint Union High School District,51.52,10398,49219
+701,Kerman Unified School District,51.52,11086,45559
+702,Mendocino Unified School District,51.55,21468,62912
+703,San Francisco Unified School District,51.59,13640,104552
+704,Red Bluff Union Elementary School District,51.82,12011,40434
+705,Richfield Elementary School District,51.92,10081,50625
+706,Evergreen Union Elementary School District,52.14,10341,49085
+707,Mt Shasta Union School District,52.26,10496,48179
+708,Clay Joint Elementary School District,52.29,9561,53125
+709,Wasco Union Elementary School District,52.42,12404,37925
+710,Alview Dairyland Union Elementary,52.56,10858,46042
+711,Lamont Elementary School District,52.6,11930,40316
+712,Calipatria Unified School District,52.6,13804,30350
+713,Morongo Unified School District,52.71,11870,40559
+714,Richland-Lerdo Elementary,52.89,11514,42323
+715,Barstow Unified School District,53,11482,42412
+716,Di Giorgio Elementary School Districtrict,53.01,12607,36429
+717,Hydesville Elementary School District,53.07,9687,51905
+718,Terra Bella Union Elementary School District,53.18,12907,34712
+719,Kernville Union Elementary School District,53.43,12920,34471
+720,Oroville City Elementary School District,53.62,11387,42483
+721,Washington Unified School District,53.74,12257,37778
+722,Monson Sultana Joint Union Elementary School District,54.18,11440,41806
+723,Coast Unified School District,54.36,20790,68490
+724,Santa Cruz City High School District,54.39,260,101094
+725,Willits Unified School District,54.66,11286,42292
+726,Corcoran Joint Unified School District,54.72,12004,38429
+727,Konocti Unified School District,54.79,12966,33264
+728,Scotia Union Elementary School District,54.89,12094,37831
+729,Porterville Unified School District,55.02,12321,36531
+730,Needles Unified School District,55.26,13191,31738
+731,Campbell Union High School District,55.29,13228,109341
+732,Wasco Union High School District,55.3,12037,37844
+733,Pixley Union Elementary School District,55.46,14005,27269
+734,Susanville Elementary School District,55.63,9188,52758
+735,Corning Union Elementary School District,55.74,11183,42078
+736,Modoc Joint Unified School District,55.92,10786,44063
+737,Healdsburg Unified School District,55.95,16611,91827
+738,Allensworth Elementary School District,56.38,13683,28333
+739,Cutten Elementary School District,56.57,9847,48594
+740,Lucerne Elementary School District,56.73,12110,36453
+741,Burlingame Elementary School District,56.76,10794,123316
+742,Palermo Union Elementary School District,56.77,11792,38117
+743,Mount Pleasant Elementary School District,56.79,14400,104167
+744,Columbine Elementary School District,57,10310,45833
+745,Potter Valley Cmty. Unif. School District,57.15,22259,62642
+746,Geyserville Unified School District,57.26,18169,84464
+747,Livermore Valley Joint Unified School District,57.64,11323,121121
+748,Yreka Unified Elementary School District,57.69,10825,42609
+749,Sunol Glen Elementary School District,57.81,11792,118750
+750,El Centro Elementary School District,57.81,10721,43074
+751,Apple Valley Unified School District,57.87,8812,53184
+752,Santa Monica-Malibu Unified School District,57.89,15621,98455
+753,Liberty Elementary School District,58.13,2034,89028
+754,Alta Vista Elementary School District,58.13,12511,33333
+755,Paradise Unified School District,58.17,9702,48242
+756,Oak Park Unified School District,58.4,9951,128954
+757,Willows Unified School District,58.66,9806,47339
+758,Los Olivos Elementary School District,58.92,15496,99844
+759,San Pasqual Union School District,59.05,10605,125929
+760,Douglas City Elementary School District,59.29,11297,38971
+761,Standard School District,59.38,10468,43319
+762,Pleasant View Elementary School District,59.42,12863,30556
+763,Forks Of Salmon Elementary School District,59.71,29444,26250
+764,Thermalito Union Elementary School District,59.72,12291,33382
+765,Buena Vista Elementary School District,60.05,10533,42500
+766,Linns Val-Poso Flat Union School District,60.09,26364,42891
+767,Encinitas Union Elementary School District,60.71,11877,120336
+768,Orchard Elementary School District,60.74,11384,122980
+769,Howell Mt Elementary School District,60.8,18081,87422
+770,Mission Union Elementary School District,60.8,11092,39000
+771,Arcata Elementary School District,61.07,12481,31426
+772,Blochman Union Elementary School District,61.09,1695,88750
+773,Taft Union High School District,61.09,26005,45505
+774,Newcastle Elementary School District,61.33,4653,72854
+775,Calistoga Joint Unified School District,61.43,18894,83542
+776,Seeley Union Elementary School District,61.82,12290,31912
+777,Rio Dell Elementary School District,61.87,11306,37108
+778,Milpitas Unified School District,62.14,11069,125644
+779,Washington Union Elementary School District,62.6,10155,130824
+780,Evergreen Elementary School District,62.62,10612,128405
+781,Tipton Elementary School District,62.89,11681,34397
+782,Rockford Elementary School District,62.91,10860,38750
+783,Eastern Sierra Unified School District,62.96,24540,54605
+784,Sonora Elementary School District,63.18,9250,47115
+785,Cardiff Elementary School District,63.2,14660,107296
+786,Strathmore Union Elementary School District,63.4,12046,32098
+787,Columbia Union School District,64.1,10410,40303
+788,Cabrillo Unified School District,64.11,12275,120614
+789,Fremont Unified School District,64.22,11018,127374
+790,Bradley Union Elementary School District,64.39,4080,73750
+791,Mcfarland Unified School District,65.3,11191,35307
+792,Armona Union Elementary School District,65.38,9151,46092
+793,San Dieguito Union High School District,65.59,11201,127370
+794,Las Virgenes Unified School District,65.92,11125,128000
+795,Antelope Elementary School District,66.12,10369,39096
+796,Seiad Elementary School District,66.4,26294,47708
+797,Plainsburg Elementary School District,67.08,9308,44063
+798,Ross Valley School District,67.13,12394,122108
+799,Palo Verde Union Elementary School District,67.23,10472,37770
+800,Big Pine Unified School District,67.34,25219,54083
+801,Buellton Union Elementary School District,67.93,20154,81421
+802,Ducor Union Elementary School District,68.04,12559,26103
+803,Banta Elementary School District,68.61,5696,62188
+804,Hermosa Beach Elementary School District,70.38,9988,137188
+805,Oak Valley Union Elementary School District,70.88,9877,38365
+806,Waterford Unified School District,72.06,6135,57426
+807,San Mateo-Foster City School District,72.11,12491,125099
+808,Mendota Unified School District,72.56,11212,30085
+809,Orick Elementary School District,73.2,30368,30833
+810,Pacific Elementary School District,73.39,8186,45586
+811,Southern Trinity Joint Unified School District,74.49,30880,29022
+812,Vineland Elementary School District,75.05,10880,30099
+813,Beardsley Elementary School District,75.81,10940,29245
+814,Reservation Elementary School District,76.25,25167,60625
+815,Dublin Unified School Districtrict,76.25,10430,138970
+816,Golden Feather Union School District,76.74,8078,43802
+817,Spreckels Union School District,77.71,8916,148046
+818,Emery Unified School District,78.66,17972,100568
+819,Gorman Elementary School District,78.76,453,82917
+820,New Jerusalem Elementary School District,80.06,5740,53895
+821,Beverly Hills Unified School District,80.07,17657,103241
+822,Elk Hills Elementary School District,80.35,10620,27750
+823,Union Elementary School District,80.44,11366,136941
+824,Sausalito Elementary School District,80.5,18883,97024
+825,Acalanes Union High School District,81.7,14295,122258
+826,Big Creek Elementary School District,81.87,20797,87813
+827,Westside Elementary School District,82.27,8238,39063
+828,Liberty Elementary School District,82.86,7518,42474
+829,Belridge Elementary School District,84.16,28825,46750
+830,Belmont-Redwood Shores Elementary School District,87.86,11344,142277
+831,Brisbane Elementary School District,88.21,17091,111975
+832,Happy Valley Elementary School District,89.88,12217,139063
+833,Mountain View Whisman School District,91.56,14946,125737
+834,Larkspur-Cole-Madera School District,91.73,13931,131250
+835,Kentfield Elementary School District,93.02,14457,129359
+836,Latrobe Elementary School District,94.38,15562,124448
+837,Sunnyvale School District,95.24,14530,130538
+838,Palos Verdes Peninsula Unified School District,95.62,11907,144749
+839,Pleasanton Unified School District,96.31,11307,148421
+840,Sequoia Union High School District,98.63,16314,123438
+841,Marcum Illinois Union Elementary School District,101.58,1014,63875
+842,Pope Valley Union Elementary School District,101.9,28281,62125
+843,Orange Center School District,102.28,4648,44063
+844,Alexander Valley Union Elementary School District,102.29,19750,107750
+845,Santa Clara Unified School District,102.8,17223,121542
+846,Carmel Unified School District,102.91,22712,92437
+847,San Mateo High School District,102.95,17001,122829
+848,Trona Joint Unified School District,104.11,5562,37917
+849,La Honda Pescadero Unified School District,104.67,19320,111712
+850,Lucerne Valley Unified School District,104.82,7006,29741
+851,Meridian Elementary School District,104.88,914,62083
+852,Spencer Valley Elementary School District,106.14,1139,60000
+853,Moraga School District,107.32,12398,150372
+854,San Ramon Valley Unified School District,108.73,10908,159284
+855,Alpaugh Unified School District,108.93,6196,31154
+856,Ballard Elementary School District,109.64,16725,129000
+857,Cupertino Union Elementary School District,109.69,11257,158108
+858,Whitmore Union Elementary School District,110.57,2175,51375
+859,Manhattan Beach Unified School District,111.16,12960,150083
+860,Del Mar Union Elementary School District,117.04,14474,146177
+861,Dunsmuir Joint High School District,117.27,35587,34107
+862,Fremont Union High School District,117.94,14645,145897
+863,Loma Prieta Joint Elementary School District,119.52,13646,152321
+864,Willow Grove Elementary School District,120.04,24357,95750
+865,Nicasio School District,120.07,22465,105833
+866,Solana Beach Elementary School District,122.06,17930,131336
+867,Feather Falls Union Elementary School District,122.25,5481,25583
+868,Lafayette Elementary School District,122.43,12299,161528
+869,Laguna Beach Unified School District,122.65,19481,123507
+870,San Marino Unified School District,123.41,13803,154224
+871,Pine Ridge Elementary School District,123.69,24459,97778
+872,Winship-Robbins School District,123.7,1048,48125
+873,Warner Unified School District,123.76,2191,42009
+874,Tamalpais Union High School District,124.93,18416,130775
+875,Mill Valley Elementary School District,126.91,14946,150610
+876,Los Gatos Union School District,127.76,12802,162611
+877,Shoreline Unified School District,130.05,28061,83107
+878,Laguna Joint Elementary School District,132.26,26077,95208
+879,St Helena Unified School District,132.96,27432,88494
+880,Horicon Elementary School District,133.37,29790,76250
+881,San Carlos Elementary School District,134.76,12138,171061
+882,Oro Grande Elementary School District,141.11,2035,30625
+883,La Canada Unified School District,141.78,11594,178897
+884,Maricopa Unified School District,143.68,990,34375
+885,Reed Union Elementary School District,144.69,15602,159641
+886,Mountain House Elementary School District,148.97,28250,95417
+887,Kneeland Elementary School District,150.71,32615,73438
+888,Ravendale-Termo Elementary School District,153.29,809,28571
+889,Alpine County Unified School District,156.48,35025,64688
+890,Mt Vw-Los Altos Unified High School District,160.08,20860,142519
+891,Rancho Santa Fe Elementary School District,160.14,21002,141806
+892,Fort Ross School District,161.38,38000,52321
+893,Mckittrick Elementary School District,169.09,41221,40625
+894,Los Gatos-Saratoga Union High School District,170.32,16723,171720
+895,Palo Alto Unified School District,173.72,20962,151579
+896,Vista Del Mar Elementary School District,174.46,29493,106750
+897,Jefferson Elementary School District,178.44,34111,85000
+898,Big Lagoon Elementary School District,184.59,41235,51458
+899,Coffee Creek Elementary School District,186.26,42200,47500
+900,Cold Spring Elementary School District,189.82,21918,157824
+901,Menlo Park City Elementary School District,190.97,17368,182819
+902,Orinda Union Elementary School District,196,13025,209449
+903,Saratoga Union Elementary School District,202.08,18109,186703
+904,Los Altos Elementary School District,203.38,15669,200585
+905,Las Lomitas Elementary School District,208.58,20139,180481
+906,Montecito Elementary School District,218.14,29215,138967
+907,Lincoln Elementary School District,221.93,37000,100250
+908,Lakeside Joint School District,224.87,23784,172574
+909,Piedmont City Unified School District,225.57,16668,210889
+910,Death Valley Unified School District,281.06,57808,31250
+911,Portola Valley Elementary School District,282.25,25016,206406
+912,Panoche Elementary School District,286.8,57000,39583
+913,Bolinas Stinson Unified School District,303.19,50703,84596
+914,Hillsborough City School District,309.04,20362,250000
+915,Ross Elementary School District,311.99,20752,250000
+916,Woodside Elementary School District,338.51,27516,232708
+917,Silver Fork Elementary School District,436.07,72333,63125
+918,Desert Center Unified School District,440.19,77200,40156
+919,Indian Springs Elementary School District,453.31,82571,20833
